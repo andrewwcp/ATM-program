@@ -1,8 +1,8 @@
-package tas_pemrog_g_672019196;
+package atm;
 
 import java.util.Scanner;
 
-public class TAS_Pemrog_G_672019196 {
+public class main {
 
     public static void main(String[] args) {
         Scanner ini = new Scanner(System.in);
@@ -12,7 +12,6 @@ public class TAS_Pemrog_G_672019196 {
             System.out.println("<------------------->");
             System.out.println("       MENU ATM      ");
             System.out.println("<------------------->");
-            System.out.println("\n1. Lihat data Nasabah");
             System.out.println("2. Input data Nasabah");
             System.out.println("3. Tabung");
             System.out.println("4. Tarik tunai");
